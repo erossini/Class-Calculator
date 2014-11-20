@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="UnitTestCalculator.NUnit" Title="UnitTestCalculator.NUnit Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.DecimalNumbers_MustReturnDouble" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000002.html" LinkGroup="UnitTestCalculator.NUnit">DecimalNumbers_MustReturnDouble Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000001.html" LinkGroup="UnitTestCalculator.NUnit">NUnitTest Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.NewLineSeparators" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000003.html" LinkGroup="UnitTestCalculator.NUnit">NewLineSeparators Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.NewLineSeparatorsCommasCombined" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000004.html" LinkGroup="UnitTestCalculator.NUnit">NewLineSeparatorsCommasCombined Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.NonNumericStringPassed_RaiseThrowException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000005.html" LinkGroup="UnitTestCalculator.NUnit">NonNumericStringPassed_RaiseThrowException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.NullString_ReturnZero" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000006.html" LinkGroup="UnitTestCalculator.NUnit">NullString_ReturnZero Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.NumbersGreaterThan1000_BeSkip" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000007.html" LinkGroup="UnitTestCalculator.NUnit">NumbersGreaterThan1000_BeSkip Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.OneString_ReturnTheString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000008.html" LinkGroup="UnitTestCalculator.NUnit">OneString_ReturnTheString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.PassEmptyString_ReturnZero" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000009.html" LinkGroup="UnitTestCalculator.NUnit">PassEmptyString_ReturnZero Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.SpacesBetweenDelimiters_Handled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_000000000000000A.html" LinkGroup="UnitTestCalculator.NUnit">SpacesBetweenDelimiters_Handled Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.SpecialDelimiterWithMultipleNegativeNumber_HaveThrows" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_000000000000000B.html" LinkGroup="UnitTestCalculator.NUnit">SpecialDelimiterWithMultipleNegativeNumber_HaveThrows Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.ThreeString_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_000000000000000C.html" LinkGroup="UnitTestCalculator.NUnit">ThreeString_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.TwoNegativeString_HaveAnException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_000000000000000D.html" LinkGroup="UnitTestCalculator.NUnit">TwoNegativeString_HaveAnException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.TwoString_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_000000000000000E.html" LinkGroup="UnitTestCalculator.NUnit">TwoString_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000000.html" LinkGroup="UnitTestCalculator.NUnit">UnitTestCalculator.NUnit Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000018.html" LinkGroup="UnitTestCalculator.NUnit">UnitTestCalculator.NUnit Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithDelimiterAndColon_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_000000000000000F.html" LinkGroup="UnitTestCalculator.NUnit">WithDelimiterAndColon_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithMultipleNegativeNumber_HaveAnException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000010.html" LinkGroup="UnitTestCalculator.NUnit">WithMultipleNegativeNumber_HaveAnException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithNegativeNumber_HaveAnException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000011.html" LinkGroup="UnitTestCalculator.NUnit">WithNegativeNumber_HaveAnException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithOneSpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000012.html" LinkGroup="UnitTestCalculator.NUnit">WithOneSpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithSpecialDelimitersOnlyOneChar_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000013.html" LinkGroup="UnitTestCalculator.NUnit">WithSpecialDelimitersOnlyOneChar_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithSwithAndAnySpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000014.html" LinkGroup="UnitTestCalculator.NUnit">WithSwithAndAnySpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithThreeSpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000015.html" LinkGroup="UnitTestCalculator.NUnit">WithThreeSpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithTwoSpecialDelimitersOnlyOneChar_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000017.html" LinkGroup="UnitTestCalculator.NUnit">WithTwoSpecialDelimitersOnlyOneChar_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithTwoSpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:UnitTestCalculator.NUnit.chm::/topic_0000000000000016.html" LinkGroup="UnitTestCalculator.NUnit">WithTwoSpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

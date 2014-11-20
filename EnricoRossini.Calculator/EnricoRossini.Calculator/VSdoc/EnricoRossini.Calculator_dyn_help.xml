@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="EnricoRossini.Calculator" Title="EnricoRossini.Calculator Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.Calculator.Add" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.Calculator.chm::/topic_0000000000000002.html" LinkGroup="EnricoRossini.Calculator">Add Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.Calculator" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.Calculator.chm::/topic_0000000000000001.html" LinkGroup="EnricoRossini.Calculator">Calculator Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.CalculatorException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.Calculator.chm::/topic_0000000000000007.html" LinkGroup="EnricoRossini.Calculator">CalculatorException Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.CalculatorException.CalculatorException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.Calculator.chm::/topic_0000000000000008.html" LinkGroup="EnricoRossini.Calculator">CalculatorException Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.Calculator.chm::/topic_0000000000000000.html" LinkGroup="EnricoRossini.Calculator">EnricoRossini.Calculator Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.Calculator.chm::/topic_0000000000000009.html" LinkGroup="EnricoRossini.Calculator">EnricoRossini.Calculator Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.Validator.IsRequiredField" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.Calculator.chm::/topic_0000000000000004.html" LinkGroup="EnricoRossini.Calculator">IsRequiredField Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.ValidationException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.Calculator.chm::/topic_0000000000000005.html" LinkGroup="EnricoRossini.Calculator">ValidationException Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.ValidationException.ValidationException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.Calculator.chm::/topic_0000000000000006.html" LinkGroup="EnricoRossini.Calculator">ValidationException Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.Validator" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.Calculator.chm::/topic_0000000000000003.html" LinkGroup="EnricoRossini.Calculator">Validator Class</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DynamicHelp xmlns="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://msdn.microsoft.com/vsdata/xsd/vsdh.xsd">	
+   <LINKGROUP ID="EnricoRossini.CalculatorSolution" Title="EnricoRossini.Calculator Reference Help" Priority="2100">
+      <GLYPH Expanded="vs:/ctxhelp_show.gif" Collapsed="vs:/ctxhelp_hide.gif"/>
+   </LINKGROUP>
+
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.Calculator.Add" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000001D.html" LinkGroup="EnricoRossini.CalculatorSolution">Add Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.Calculator" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000001C.html" LinkGroup="EnricoRossini.CalculatorSolution">Calculator Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.CalculatorException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000022.html" LinkGroup="EnricoRossini.CalculatorSolution">CalculatorException Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.CalculatorException.CalculatorException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000023.html" LinkGroup="EnricoRossini.CalculatorSolution">CalculatorException Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.DecimalNumbers_MustReturnDouble" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000026.html" LinkGroup="EnricoRossini.CalculatorSolution">DecimalNumbers_MustReturnDouble Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000001B.html" LinkGroup="EnricoRossini.CalculatorSolution">EnricoRossini.Calculator Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator Reference" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000000.html" LinkGroup="EnricoRossini.CalculatorSolution">EnricoRossini.Calculator Reference</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.Validator.IsRequiredField" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000001F.html" LinkGroup="EnricoRossini.CalculatorSolution">IsRequiredField Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.MyAssert" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000002.html" LinkGroup="EnricoRossini.CalculatorSolution">MyAssert Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000025.html" LinkGroup="EnricoRossini.CalculatorSolution">NUnitTest Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.NewLineSeparators" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000027.html" LinkGroup="EnricoRossini.CalculatorSolution">NewLineSeparators Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.NewLineSeparatorsCommasCombined" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000028.html" LinkGroup="EnricoRossini.CalculatorSolution">NewLineSeparatorsCommasCombined Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.NonNumericStringPassed_RaiseThrowException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000029.html" LinkGroup="EnricoRossini.CalculatorSolution">NonNumericStringPassed_RaiseThrowException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.NullString_ReturnZero" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000002A.html" LinkGroup="EnricoRossini.CalculatorSolution">NullString_ReturnZero Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.NumbersGreaterThan1000_BeSkip" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000002B.html" LinkGroup="EnricoRossini.CalculatorSolution">NumbersGreaterThan1000_BeSkip Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.OneString_ReturnTheString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000002C.html" LinkGroup="EnricoRossini.CalculatorSolution">OneString_ReturnTheString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.PassEmptyString_ReturnZero" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000002D.html" LinkGroup="EnricoRossini.CalculatorSolution">PassEmptyString_ReturnZero Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.SpacesBetweenDelimiters_Handled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000002E.html" LinkGroup="EnricoRossini.CalculatorSolution">SpacesBetweenDelimiters_Handled Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.SpecialDelimiterWithMultipleNegativeNumber_HaveThrows" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000002F.html" LinkGroup="EnricoRossini.CalculatorSolution">SpecialDelimiterWithMultipleNegativeNumber_HaveThrows Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.ThreeString_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000030.html" LinkGroup="EnricoRossini.CalculatorSolution">ThreeString_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.MyAssert.Throws<T>" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000003.html" LinkGroup="EnricoRossini.CalculatorSolution">Throws<T> Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.TwoNegativeString_HaveAnException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000031.html" LinkGroup="EnricoRossini.CalculatorSolution">TwoNegativeString_HaveAnException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.TwoString_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000032.html" LinkGroup="EnricoRossini.CalculatorSolution">TwoString_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000004.html" LinkGroup="EnricoRossini.CalculatorSolution">UnitTest1 Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000001.html" LinkGroup="EnricoRossini.CalculatorSolution">UnitTestCalculator Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000024.html" LinkGroup="EnricoRossini.CalculatorSolution">UnitTestCalculator.NUnit Namespace</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.ValidationException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000020.html" LinkGroup="EnricoRossini.CalculatorSolution">ValidationException Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.ValidationException.ValidationException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000021.html" LinkGroup="EnricoRossini.CalculatorSolution">ValidationException Constructor</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="EnricoRossini.Calculator.Validator" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000001E.html" LinkGroup="EnricoRossini.CalculatorSolution">Validator Class</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithDelimiterAndColon_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000033.html" LinkGroup="EnricoRossini.CalculatorSolution">WithDelimiterAndColon_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithMultipleNegativeNumber_HaveAnException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000034.html" LinkGroup="EnricoRossini.CalculatorSolution">WithMultipleNegativeNumber_HaveAnException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithNegativeNumber_HaveAnException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000035.html" LinkGroup="EnricoRossini.CalculatorSolution">WithNegativeNumber_HaveAnException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithOneSpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000036.html" LinkGroup="EnricoRossini.CalculatorSolution">WithOneSpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithSpecialDelimitersOnlyOneChar_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000037.html" LinkGroup="EnricoRossini.CalculatorSolution">WithSpecialDelimitersOnlyOneChar_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithSwithAndAnySpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000038.html" LinkGroup="EnricoRossini.CalculatorSolution">WithSwithAndAnySpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithThreeSpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000039.html" LinkGroup="EnricoRossini.CalculatorSolution">WithThreeSpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithTwoSpecialDelimitersOnlyOneChar_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000003B.html" LinkGroup="EnricoRossini.CalculatorSolution">WithTwoSpecialDelimitersOnlyOneChar_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.NUnit.NUnitTest.WithTwoSpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000003A.html" LinkGroup="EnricoRossini.CalculatorSolution">WithTwoSpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_DecimalNumbers_MustReturnDouble" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000005.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_DecimalNumbers_MustReturnDouble Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_NewLineSeparators" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000006.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_NewLineSeparators Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_NewLineSeparatorsCommasCombined" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000007.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_NewLineSeparatorsCommasCombined Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_NonNumericStringPassed_RaiseThrowException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000008.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_NonNumericStringPassed_RaiseThrowException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_NullString_ReturnZero" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000009.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_NullString_ReturnZero Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_NumbersGreaterThan1000_BeSkip" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000000A.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_NumbersGreaterThan1000_BeSkip Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_OneString_ReturnTheString" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000000B.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_OneString_ReturnTheString Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_PassEmptyString_ReturnZero" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000000C.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_PassEmptyString_ReturnZero Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_SpacesBetweenDelimiters_Handled" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000000D.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_SpacesBetweenDelimiters_Handled Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_SpecialDelimiterWithMultipleNegativeNumber_HaveThrows" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000000E.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_SpecialDelimiterWithMultipleNegativeNumber_HaveThrows Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_ThreeString_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000000F.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_ThreeString_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_TwoNegativeString_HaveAnException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000010.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_TwoNegativeString_HaveAnException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_TwoString_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000011.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_TwoString_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_WithDelimiterAndColon_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000012.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_WithDelimiterAndColon_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_WithMultipleNegativeNumber_HaveAnException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000013.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_WithMultipleNegativeNumber_HaveAnException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_WithNegativeNumber_HaveAnException" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000014.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_WithNegativeNumber_HaveAnException Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_WithOneSpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000015.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_WithOneSpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_WithSpecialDelimitersOnlyOneChar_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000016.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_WithSpecialDelimitersOnlyOneChar_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_WithSwithAndAnySpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000017.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_WithSwithAndAnySpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_WithThreeSpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000018.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_WithThreeSpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_WithTwoSpecialDelimitersOnlyOneChar_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_000000000000001A.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_WithTwoSpecialDelimitersOnlyOneChar_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+   <Context>
+      <Keywords>
+         <KItem Name="UnitTestCalculator.UnitTest1.vst_WithTwoSpecialDelimiters_Pass" />
+      </Keywords>
+      <Links>
+         <LItem URL="ms-its:EnricoRossini.CalculatorSolution.chm::/topic_0000000000000019.html" LinkGroup="EnricoRossini.CalculatorSolution">vst_WithTwoSpecialDelimiters_Pass Method</LItem>
+      </Links>
+   </Context>
+   
+
+</DynamicHelp>
+

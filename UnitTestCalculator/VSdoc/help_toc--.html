@@ -1,0 +1,379 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+    <title>Menu</title>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+<style>
+html { font-family:sans-serif; background-color:#ffffff; font-size:75%;}
+a { text-decoration:none; color:rgb(0,51,102) }
+.header a { color:#000!important }
+.item { border:solid 0px #000; padding:0.25em; margin-left:1em }
+.header, .leaf { cursor:pointer; padding-left:19px; min-height:18px; line-height:18px; white-space:nowrap;}
+.closed { background:url(bookC.gif) no-repeat }
+.open { background:url(bookE.gif) no-repeat }
+.leaf { background:url(leaf.gif) no-repeat }
+</style>
+
+<script>
+function toggle(idsub,elhead) {
+    var elsub = document.getElementById(idsub);
+    if(elsub.style.display=="block")
+        elsub.style.display = "none";
+    else
+        elsub.style.display="block";
+        
+    if(elhead.className=="header open")
+        elhead.className = "header closed";
+    else
+        elhead.className = "header open";
+}
+
+function expandLinkInToc(url) {
+	var link = findLink(url);
+	//alert(link);
+	//alert(link.innerHTML);
+	if(!isElementVisible(link)) {
+		expandElementAndParents(link);
+	}
+	link.scrollIntoView(true);
+	link.focus();
+}
+
+function expandElementAndParents(elm) {
+	if(elm.style) {
+		if(elm.style.display=="none") {
+			//elm is container with subtopics
+			elm.style.display="block";
+			// process also chapter header
+			var id = elm.getAttribute("id");
+			id = id.substring(1);
+			var elHead = document.getElementById(id);
+			if(elHead.className=="header closed") {
+				elHead.className = "header open";
+			}
+		}
+	}
+	// process parents
+	if (elm.parentNode) {
+		expandElementAndParents(elm.parentNode);
+	}
+}
+
+function findLink(url) {
+	var links = document.links;
+	var i;
+	for (i=0; i<links.length; i++) {
+		if (links[i].href == url) {
+			return links[i];
+		}		
+	}
+	return null;
+} 
+
+function isElementVisible(elm) {
+	if(elm.style) {
+		if(elm.style.display == "none") {
+			return false;
+		}
+	}
+	if (elm.parentNode) {
+		return isElementVisible(elm.parentNode);
+	} else {
+		return true;
+	}
+}
+</script>
+
+</head>
+
+<body>
+    
+						 		<div id="1" class="header closed" onclick="toggle('c1',this)">
+   
+  		<a href="topic_000000000000001A.html" target="vbdocright">UnitTestCalculator Reference</a>
+ 
+		</div>
+     <div id="c1" class="item" style="display:none">
+		
+     
+
+       <div id="2" class="header closed" onclick="toggle('c2',this)">
+    <a href="topic_0000000000000000.html" target="vbdocright">UnitTestCalculator Namespace</a>
+    </div>
+    <div id="c2" class="item" style="display:none">
+		
+
+						    <div id="3" class="header closed" onclick="toggle('c3',this)">
+    <a href="topic_0000000000000001.html" target="vbdocright">MyAssert Class</a>
+    </div>
+    <div id="c3" class="item" style="display:none">
+		
+ 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="leaf"><a href="topic_0000000000000001_members--.html" target="vbdocright">MyAssert Members</a></div>
+
+
+
+
+
+
+
+
+
+
+
+		
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		    <div id="4" class="header closed" onclick="toggle('c4',this)">
+    <a href="topic_0000000000000001_methods--.html" target="vbdocright">Methods</a>
+    </div>
+    <div id="c4" class="item" style="display:none">
+		
+						
+						
+						
+						
+						  <div class="leaf"><a href="topic_0000000000000002.html" target="vbdocright">Throws&lt;T&gt; Method</a></div>
+
+						
+			</div>
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+</div>
+
+
+				    <div id="5" class="header closed" onclick="toggle('c5',this)">
+    <a href="topic_0000000000000003.html" target="vbdocright">UnitTest1 Class</a>
+    </div>
+    <div id="c5" class="item" style="display:none">
+		
+ 		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="leaf"><a href="topic_0000000000000003_members--.html" target="vbdocright">UnitTest1 Members</a></div>
+
+
+
+
+
+
+
+
+
+
+
+		
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		    <div id="6" class="header closed" onclick="toggle('c6',this)">
+    <a href="topic_0000000000000003_methods--.html" target="vbdocright">Methods</a>
+    </div>
+    <div id="c6" class="item" style="display:none">
+		
+						
+						
+						
+						
+						
+						  <div class="leaf"><a href="topic_0000000000000004.html" target="vbdocright">vst_DecimalNumbers_MustReturnDouble Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000005.html" target="vbdocright">vst_NewLineSeparators Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000006.html" target="vbdocright">vst_NewLineSeparatorsCommasCombined Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000007.html" target="vbdocright">vst_NonNumericStringPassed_RaiseThrowException Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000008.html" target="vbdocright">vst_NullString_ReturnZero Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000009.html" target="vbdocright">vst_NumbersGreaterThan1000_BeSkip Method</a></div>
+
+						  <div class="leaf"><a href="topic_000000000000000A.html" target="vbdocright">vst_OneString_ReturnTheString Method</a></div>
+
+						  <div class="leaf"><a href="topic_000000000000000B.html" target="vbdocright">vst_PassEmptyString_ReturnZero Method</a></div>
+
+						  <div class="leaf"><a href="topic_000000000000000C.html" target="vbdocright">vst_SpacesBetweenDelimiters_Handled Method</a></div>
+
+						  <div class="leaf"><a href="topic_000000000000000D.html" target="vbdocright">vst_SpecialDelimiterWithMultipleNegativeNumber_HaveThrows Method</a></div>
+
+						  <div class="leaf"><a href="topic_000000000000000E.html" target="vbdocright">vst_ThreeString_Pass Method</a></div>
+
+						  <div class="leaf"><a href="topic_000000000000000F.html" target="vbdocright">vst_TwoNegativeString_HaveAnException Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000010.html" target="vbdocright">vst_TwoString_Pass Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000011.html" target="vbdocright">vst_WithDelimiterAndColon_Pass Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000012.html" target="vbdocright">vst_WithMultipleNegativeNumber_HaveAnException Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000013.html" target="vbdocright">vst_WithNegativeNumber_HaveAnException Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000014.html" target="vbdocright">vst_WithOneSpecialDelimiters_Pass Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000015.html" target="vbdocright">vst_WithSpecialDelimitersOnlyOneChar_Pass Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000016.html" target="vbdocright">vst_WithSwithAndAnySpecialDelimiters_Pass Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000017.html" target="vbdocright">vst_WithThreeSpecialDelimiters_Pass Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000019.html" target="vbdocright">vst_WithTwoSpecialDelimitersOnlyOneChar_Pass Method</a></div>
+
+						  <div class="leaf"><a href="topic_0000000000000018.html" target="vbdocright">vst_WithTwoSpecialDelimiters_Pass Method</a></div>
+
+			</div>
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+</div>
+
+
+		
+		
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+		
+
+
+</div>
+
+
+ 
+
+  
+		</div>
+ 
+
+
+
+		
+		
+</body>
+</html>
